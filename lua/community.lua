@@ -6,9 +6,10 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.json" },
   -- { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.typescript-deno" },
 }
