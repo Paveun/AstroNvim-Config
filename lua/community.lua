@@ -11,6 +11,8 @@ return {
   { import = "astrocommunity.pack.json" },
   -- { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.markdown" },
-  { import = "astrocommunity.pack.typescript-deno" },
-  { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.typescript" },
+  -- { import = "astrocommunity.pack.typescript-deno" },
+  -- { import = "astrocommunity.pack.sql" },
 }
